@@ -1,16 +1,21 @@
-## Hi there 👋
+# João Victor Brum 🧠🚛➡️💻
+Transição de carreira para a área de dados e automações com Python
 
-<!--
-**JoaoBrum20/JoaoBrum20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudo Ciência de Dados e desenvolvo soluções práticas que economizam tempo e aumentam produtividade. Tenho experiência com projetos pessoais como:
 
-Here are some ideas to get you started:
+- 🗂️ **Organizador de Arquivos** – Automatização para limpar e estruturar pastas
+- ✅ **Gerenciador de Tarefas** – Sistema CRUD com Python e POO
+- 🍻 **Chope Mania (em desenvolvimento)** – CRM com automações no WhatsApp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Habilidades atuais
+- Python (os, shutil, pathlib, pandas, openpyxl, requests)
+- Git e GitHub
+- Excel, lógica, análise de dados
+
+## 🚀 Objetivos de curto prazo
+- Atuar com microfreelas em automação
+- Conquistar vaga como Analista de Dados Júnior
+- Evoluir meu portfólio com projetos reais e úteis
+
+🔗 [LinkedIn](https://www.linkedin.com/in/joao-victor-brum/)
+📫 joaovbrum@gmail.com
