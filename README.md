@@ -1,21 +1,38 @@
-# João Victor Brum 🧠🚛➡️💻
-Transição de carreira para a área de dados e automações com Python
+# João Victor Brum  
+Desenvolvedor de automações inteligentes para empresas  
+Backend | Python | APIs | Supabase | IA | n8n
 
-Atualmente estudo Ciência de Dados e desenvolvo soluções práticas que economizam tempo e aumentam produtividade. Tenho experiência com projetos pessoais como:
+---
 
-- 🗂️ **Organizador de Arquivos** – Automatização para limpar e estruturar pastas
-- ✅ **Gerenciador de Tarefas** – Sistema CRUD com Python e POO
-- 🍻 **Chope Mania (em desenvolvimento)** – CRM com automações no WhatsApp
+## Tecnologias que uso
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![n8n](https://img.shields.io/badge/n8n-ef5c55?style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions)
 
-## 👨‍💻 Habilidades atuais
-- Python (os, shutil, pathlib, pandas, openpyxl, requests)
-- Git e GitHub
-- Excel, lógica, análise de dados
+---
 
-## 🚀 Objetivos de curto prazo
-- Atuar com microfreelas em automação
-- Conquistar vaga como Analista de Dados Júnior
-- Evoluir meu portfólio com projetos reais e úteis
+## Portfólio em destaque
 
-🔗 [LinkedIn](https://www.linkedin.com/in/joao-victor-brum/)
-📫 joaovbrum@gmail.com
+### Automação para clínica de saúde  
+Backend para leitura e extração de dados clínicos via IA e PDFs  
+• Python · GPT · Supabase · Automação via n8n
+
+### Chatbot inteligente para hamburgueria  
+Atendimento natural via WhatsApp  
+• Z-API · Telegram · NLP com Python
+
+### Integração com CRM de academia nos EUA  
+Sistema de leads e presença automatizada  
+• Google Sheets · Supabase · Python
+
+---
+
+## Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBrum20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JoaoBrum20's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBrum20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
