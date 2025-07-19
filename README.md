@@ -28,11 +28,3 @@ Atendimento natural via WhatsApp
 ### Integração com CRM de academia nos EUA  
 Sistema de leads e presença automatizada  
 • Google Sheets · Supabase · Python
-
----
-
-## Estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBrum20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![JoaoBrum20's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBrum20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
